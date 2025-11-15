@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ..
 
 -->
-🔭I'm currently working on my python skills! 
-🌱I'm currently learning Sqlite Database. 
+- 🔭 I’m currently working on DS&ML projects!
+- 🌱 I’m currently learning image processing!
 
 I'm computer engineering student at DEUCENG! 
 
