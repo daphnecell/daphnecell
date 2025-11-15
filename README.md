@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on library project!
-- 🌱 I’m currently learning Sqlite Database!
+- 🔭 I’m currently working on DS&ML projects!
+- 🌱 I’m currently learning image processing!
 
 
 - 📫 How to reach me: ..
